@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fondoinfo"
+    tools:context="com.example.andreslauga.andreslaugaentregablematerialdesign.FragmentAboutUs">
+
+    <TextView
+        android:id="@+id/copy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desarrollado en 2017 por Andres Lauga para Digital House. Todos los derechos reservados. www.andreslauga.com"
+        android:gravity="center"
+        android:padding="50dp"
+        android:textSize="25sp"
+        />
+
+
+</RelativeLayout>
